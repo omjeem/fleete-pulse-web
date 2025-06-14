@@ -25,7 +25,7 @@ A full-stack single-page application (SPA) built with **Next.js (App Router)** a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-search-spa.git
+git clone https://github.com/omjeem/fleete-pulse-web
 cd student-search-spa
 ```
 
